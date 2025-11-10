@@ -1,0 +1,12 @@
+gnews
+googlenewsdecoder
+langchain
+langchain_core
+langchain-google-genai
+google-genai
+langgraph
+newspaper3k
+streamlit
+lxml_html_clean
+selenium
+webdriver-manager
